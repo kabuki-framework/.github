@@ -1,5 +1,8 @@
 ## Kabuki Framework 👋
 
+**Welcome to the Kabuki Framework Repositories**<br/>
+The Kabuki Framework is currently in stealth mode. We will open our repos when they are ready for use<br/>
+
 <!--
 
 **Kabuki Framework Overview**
